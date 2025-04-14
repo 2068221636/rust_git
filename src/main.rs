@@ -1,3 +1,7 @@
 fn main() {
-    println!("Hello, world! 修改1");
+    demo1();
+}
+
+fn demo1() {
+    println!("Hello, world! 修改2");
 }
